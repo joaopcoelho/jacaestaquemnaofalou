@@ -1,9 +1,9 @@
 AUTHOR = 'jc'
 SITENAME = 'jacaestaquemnaofalou'
-SITEURL = ''
+SITEURL = 'https://jacaestaquemnaofalou.eu'
 
 PATH = 'content'
-THEME = "/Users/joaopcoelho/.pelican-themes/mnmlist"
+THEME = "/Users/joaopcoelho/.pelican-themes/aboutwilson"
 
 TIMEZONE = 'Europe/Rome'
 
