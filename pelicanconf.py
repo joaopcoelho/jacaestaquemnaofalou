@@ -3,7 +3,7 @@ SITENAME = 'jacaestaquemnaofalou'
 SITEURL = 'https://jacaestaquemnaofalou.eu'
 
 PATH = 'content'
-THEME = "/Users/joaopcoelho/.pelican-themes/mnmlist"
+THEME = "/Users/joaopcoelho/.pelican-themes/monospace"
 
 TIMEZONE = 'Europe/Rome'
 
